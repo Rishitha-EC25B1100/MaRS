@@ -1,1 +1,2 @@
-
+This project controls the colour of an RGB LED and the blinking speed of another LED using a potentiometer. The potentiometer provides an analog input to the Arduino, which varies from 0 to 1023 depending on how it is rotated. The same input value is used to control the delay for a normal LED, which changes its blinking speed.
+As the potentiometer is turned, both the colour of the RGB LED and the blinking rate of the LED change continuously.
